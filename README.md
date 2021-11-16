@@ -1,4 +1,4 @@
-Alternate Programming Assignment for INFS 740 taught by Dr. Alexander Brodsky<br>
+Project for INFS 740 taught by Dr. Alexander Brodsky<br>
 M. Andrew Williams<br>
 Created: 21 September 2021<br>
 Updated: 16 November 2021<br>
