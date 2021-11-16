@@ -1,8 +1,8 @@
 Alternate Programming Assignment for SWE 681 taught by Dr. Wheeler<br>
 M. Andrew Williams<br>
-Created: 11 September 2019<br>
-Updated: 17 March 2020<br>
-Scheduled Release Date: 13 December 2019<br>
+Created: 21 September 2021<br>
+Updated: 16 November 2021<br>
+Scheduled Release Date: 14 December 2021<br>
 
 INTRODUCTION:
 --------------------
@@ -78,4 +78,4 @@ Production environment application may be viewed at: https://mawfia.eastus.cloud
 Current Maintainer:
  * M. Andrew Williams
 
-This is an alternate programming assignment proposed to and approved by Dr. Wheeler.
+This is an INFS 740 project proposed to and approved by Dr. Alexander Brodsky.
