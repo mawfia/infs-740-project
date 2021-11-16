@@ -7,7 +7,7 @@ Scheduled Release Date: 14 December 2021<br>
 INTRODUCTION:
 --------------------
 This is a MongoDB, Express.js, Angular 8, Node.js, Socket.io application.  This application is also best viewed on desktop with mobile device awareness that will gradually become more PWA friendly.<br><br>
-<p><b>**Still under construction, security features covered during INFS 740 will be implemented as the course progresses.**</b></p>
+<p><b>**Still under construction, distributed systems features covered during INFS 740 will be implemented as the course progresses.**</b></p>
 
 UPDATES:
 --------------------
