@@ -1,4 +1,4 @@
-Alternate Programming Assignment for SWE 681 taught by Dr. Wheeler<br>
+Alternate Programming Assignment for INFS 740 taught by Dr. Alexander Brodsky<br>
 M. Andrew Williams<br>
 Created: 21 September 2021<br>
 Updated: 16 November 2021<br>
@@ -7,11 +7,11 @@ Scheduled Release Date: 14 December 2021<br>
 INTRODUCTION:
 --------------------
 This is a MongoDB, Express.js, Angular 8, Node.js, Socket.io application.  This application is also best viewed on desktop with mobile device awareness that will gradually become more PWA friendly.<br><br>
-<p><b>**Still under construction, security features covered during SWE 681 will be implemented as the course progresses.**</b></p>
+<p><b>**Still under construction, security features covered during INFS 740 will be implemented as the course progresses.**</b></p>
 
 UPDATES:
 --------------------
-As of 8 Dec the following features are fully functional in the staging environment:
+As of 8 Nov the following features are fully functional in the staging environment:
 <ul>
   <li>User account CRUD - CR 100%, (No current plan for update or delete).</li>
   <li>Bicycle listing CRUD - CRU 100%, (Delete is forthcoming).</li>
@@ -56,12 +56,9 @@ The following security features are fully functional in the development environm
 <li>Stronger Salt/Hash algorithm (if time allows)</li>
 </ol>
 
-<b>All above features will be available in the production environment application by the scheduled release date (Was incorrectly stated as 3 December instead of 13 December).  Code will also be made public at this time.</b>
-
 SUMMARY:
 --------------------
 
--This application is being built as an alternate programming assignment culminating 6 months of material and the various ways of developing a secure modern day application.  
 Project requirements here:
 
 ![Image of Yaktocat](http://mawfia.com/documents/bicycle1.png)
@@ -70,7 +67,7 @@ Project requirements here:
 
 HOW TO USE:
 ---------------------
-Production environment contains a prototype application allowing users to create, view, update, auction, or bid on bicycle listings.  Wireframes depict 'how to use' and will eventually be updated to show bidding procedures.  Login with "test@test.com", password "!QAZzaq1" or create your own account.
+Production environment contains a prototype application allowing users to create, view, update, auction, or bid on bicycle listings.  Wireframes depict 'how to use' and will eventually be updated to show bidding procedures.  Login with "guest@gmu.edu", password "!QAZzaq1" or create your own account.
 
 
 Production environment application may be viewed at: https://mawfia.eastus.cloudapp.azure.com/
